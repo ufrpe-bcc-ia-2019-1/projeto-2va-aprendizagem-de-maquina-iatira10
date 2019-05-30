@@ -35,11 +35,11 @@ Apresentação dos resultados obtidos
 ### 5. CONCLUSÃO
 Comentar os resultados obtidos e pontos passíveis de melhorias
 
-## Exemplo de relatório
-[Exemplo 1](http://cs229.stanford.edu/proj2014/Yun%20Xu,%20Xinhui%20Wu,%20Qinxia%20Wang,%20Sentiment%20Analysis%20of%20Yelp's%20Ratings%20Based%20on%20Text%20Reviews.pdf)
-[Exemplo 2](http://cs229.stanford.edu/proj2018/report/16.pdf)
-[Exemplo 3](http://www.lbd.dcc.ufmg.br/colecoes/eniac/2016/059.pdf)
-[Exemplo 4](https://portaldeconteudo.sbc.org.br/index.php/eniac/article/view/4477/4401)
+## Exemplos de relatório
+- [Exemplo 1](http://cs229.stanford.edu/proj2014/Yun%20Xu,%20Xinhui%20Wu,%20Qinxia%20Wang,%20Sentiment%20Analysis%20of%20Yelp's%20Ratings%20Based%20on%20Text%20Reviews.pdf)
+- [Exemplo 2](http://cs229.stanford.edu/proj2018/report/16.pdf)
+- [Exemplo 3](http://www.lbd.dcc.ufmg.br/colecoes/eniac/2016/059.pdf)
+- [Exemplo 4](https://portaldeconteudo.sbc.org.br/index.php/eniac/article/view/4477/4401)
 
 ## Sugestões de Temas
 \# | Tema | Tipo | Dataset | Grupo 
@@ -50,6 +50,9 @@ Comentar os resultados obtidos e pontos passíveis de melhorias
 4 | Recomendação de filmes sensível ao contexto | Recomendação | https://www.lucami.org/index.php/research/ldos-comoda-dataset/
 5 | Predição de No-Show | Classificação | 
 6 | Classificação de sons urbanos | Classificação (audio) | https://serv.cusp.nyu.edu/projects/urbansounddataset/
+7 | Análise de agrupamentos de dados de microarray | Clustering (biologia computacional) | https://schlieplab.org/Static/Supplements/CompCancer/datasets.htm
+8 | Manutenção Preditiva | Séries Temporais | 
+
 
 ### Outros temas
 Caso você tenha alguma outra sugestão de tema, submeta a sua proposta contendo as seguintes seções:
