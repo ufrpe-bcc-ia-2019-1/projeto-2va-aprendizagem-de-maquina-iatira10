@@ -18,5 +18,5 @@ O objetivo é que por meio de mineração de emoções seja treinado um agente c
 
 **Base de Dados com o Twitters de Trump [2015-2016]:https://github.com/fivethirtyeight/data/blob/master/trump-twitter/realDonaldTrump_poll_tweets.csv**
 
-**Já a base de dados de Jair Bolsonaro será feita durante o processo de construção deste trabalho**
+**Base de dados de Jair Bolsonaro:https://www.kaggle.com/lgmoneda/jair-bolsonaro-twitter-data/downloads/jair-bolsonaro-twitter-data.zip/2**
 
