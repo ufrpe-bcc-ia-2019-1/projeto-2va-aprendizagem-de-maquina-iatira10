@@ -21,27 +21,13 @@ O objetivo é que por meio de mineração de emoções seja treinado um agente c
 **Base de dados de Jair Bolsonaro:https://www.kaggle.com/lgmoneda/jair-bolsonaro-twitter-data/downloads/jair-bolsonaro-twitter-data.zip/2**
 
 
-**Dados Utilizados nesta faixa temporal:**
+**Dados extraídos  nesta faixa temporal:**
 
-| Eleições      | Data da Eleição| Ínicio     |Fim        |
+| Eleições      | Data da Eleição|    Ínicio  |   Fim     |
 | ------------- |:--------------:| ----------:|----------:|
 | EUA           | 08/11/2016     | 01/08/2015 |16/08/2016 |
 | Brazil        | 07/10/2018     | 01/08/2017 |16/08/2018 |
 
 
-Eleições Americanas
-  Data da Eleição : 08/11/2016
-  1/08/2015 - 16/8/2016
 
- Tempo de cobertura de Twitters: 1 ano e 15 dias
-
-
-
-Eleições Brasileiras
-
-1/07/2017- 16/07/2018
-
-1 ano de 15 dias
-
-Data de Eleição:7 de out de 2018
 
