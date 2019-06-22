@@ -6,10 +6,17 @@
 - Brenno Barboza
 
 ## Descrição:				
-O projeto consiste na utilização de métodos de analises de sentimentos para mensurarmos se a pessoa está passando por uma crise de ansiedade ou não.Buscamos ajudar a solucionar o mal do século.
-O algoritmo a primeira passo será de cunho pessoal, logo terá que ser treinado para cada pessoal.
+O projeto consiste na analise do Twitters  realizados durante a campanha do candidato eleito a presidente dos EUA em 2016 Donald Trump, com os Twitters da campanha do candidato eleito  para presidente do brasil no ano de 2018 Jair Bolsonaro. 
+
+O objetivo é catalogar os sentimentos expressos dos presidenciaveis durante o ano de sua eleição e assim obter uma linha do tempo emocional sobre estes candidatos de direita.
+
+O objetivo é que por meio de mineração de emoções seja treinado um agente com um dataset já criado com twitters e logo após aplica-lo nos twittes chave.
 
 **Tipo de projeto: Aplicação**
 
-**Base de dados:** Ainda estamos em proceso de decisão para definir como será tratado a base de dados.
+**Base de dados:**
+
+**Base de Dados com o Twitters de Trump [2015-2016]:https://github.com/fivethirtyeight/data/blob/master/trump-twitter/realDonaldTrump_poll_tweets.csv**
+
+**Já a base de dados de Jair Bolsonaro será feita durante o processo de construção deste trabalho**
 
