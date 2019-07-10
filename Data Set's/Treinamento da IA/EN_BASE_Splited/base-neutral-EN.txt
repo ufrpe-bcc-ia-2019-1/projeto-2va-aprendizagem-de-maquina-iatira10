@@ -1,3 +1,4 @@
+[Começo da Base de  Treinamento]
 neutral, i heard a rumor flight was cancelled flightled is this true 
 neutral, ceo using #vegas band to help ‘connect to people
 neutral, can you help
@@ -1649,6 +1650,7 @@ neutral, okay so anything using contactless emv should workjust your internal te
 neutral, what is the name of this tailfin
 neutral, do you have a waiver for ny weather today 
 neutral, @zakkohane pretty sure he s saying ricoh had great service down at bos#happytohelp
+[Começo da Base de  Teste]
 neutral, while in haiti id do food distribution for hundreds of hungry kids in nearby villages 
 neutral, thanks i just sent a few dms 
 neutral, aprilanything specific i should know for my first flight 

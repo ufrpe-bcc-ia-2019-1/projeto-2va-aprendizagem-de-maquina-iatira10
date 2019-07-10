@@ -1,4 +1,10 @@
-Quantidade utilizada para as bases: 2361[Logo as bases estão igualadas]
+Quantidade utilizada para as bases: 2361[Logo as bases estï¿½o igualadas]
 Negativas=1-9172>9171>>6810
 Neutral=9173-12264>3091>>730
 Positive=12264-14624>2361>>0
+
+% da divisÃ£o das bases:
+
+2361=100%
+Treinamento:70% =1652
+Teste:30% =709
