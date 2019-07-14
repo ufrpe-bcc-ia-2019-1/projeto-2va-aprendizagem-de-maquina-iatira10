@@ -1,0 +1,10 @@
+﻿Quantidade utilizada para as bases: 482[Logo as bases est�o igualadas]
+Negativas=1-9172>482>>6810
+Neutral=9173-12264>1174>>730
+Positive=12264-14624>1144>>0
+
+% da divisão das bases:
+
+482=100%
+Treinamento:70% =337
+Teste:30% =97
