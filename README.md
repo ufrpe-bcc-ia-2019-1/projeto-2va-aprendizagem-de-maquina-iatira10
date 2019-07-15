@@ -1,4 +1,4 @@
-# Projeto 2VA - Aprendizagem de Máquina				
+# Projeto 2VA - Aprendizagem de Máquina
 ## UFRPE - BCC - IA
 
 ## Equipe:
