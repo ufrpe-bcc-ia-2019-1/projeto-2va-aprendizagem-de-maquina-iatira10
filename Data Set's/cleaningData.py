@@ -51,8 +51,3 @@ def contagemDaBSD(arquivo):
     df = pd.read_csv(arquivo, sep=',')
     print(df.groupby('Classification').size())
     print(df.set_index(["Classification"]).count(level="Classification"))
-
-# df = pd.read_csv('./Trump/trumpDataset.csv', sep=',')
-# df = df.drop(columns='id')
-# df.to_csv('./Trump/trumpDataset.csv',index=False)
-limpezaDeArquivo('./Trump/trumpDataset.csv')
