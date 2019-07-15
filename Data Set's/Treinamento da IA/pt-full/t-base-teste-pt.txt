@@ -1,4 +1,4 @@
-(''psol vai questionar aumento de vereadores e prefeito de bh na justica politica estado de minas'', ''Negative''),
+﻿(''psol vai questionar aumento de vereadores e prefeito de bh na justica politica estado de minas'', ''Negative''),
 (''bb e governo de minas travam disputa sobre depositos judiciais'', ''Negative''),
 (''erro desconhecido e mato alias e da secretaria estadual de fazenda que ta assim mg nao precisa de dinheiro nao governador'', ''Negative''),
 (''mesmo sem muito dinheiro no caixa o governo de minas gerais compra dois helicopteros dois helicopteros minas gerais s'', ''Negative''),
@@ -290,4 +290,4 @@
 (''joaojpchagas minas anuncia r milhoes para combate a febre amarela'', ''Positive''),
 (''jornalmoc mg governo de minas gerais beneficiara mil agricultores familiares'', ''Positive''),
 (''a estrategia de febre amarela malaria pra tirar o'', ''Positive''),
-(''ludmilabaldan o estado de mg por exemplo tem universidades publicas com grandes nomes'', ''Positive''),
+(''ludmilabaldan o estado de mg por exemplo tem universidades publicas com grandes nomes'', ''Positive'')
