@@ -39,10 +39,10 @@ O objetivo é que por meio de mineração de emoções seja treinado um agente c
 
 * [**Código usado para o treinamento usando a base dados em EN**](https://colab.research.google.com/drive/1ISNj_ha7C8axhGJTiXGL5UMrT0nIjQLp)
 
-![](https://github.com/ufrpe-bcc-ia-2019-1/projeto-2va-aprendizagem-de-maquina-iatira10/tree/master/Graficos%20Comparativos/1Trimestre.JPG)
+![](https://github.com/ufrpe-bcc-ia-2019-1/projeto-2va-aprendizagem-de-maquina-iatira10/blob/master/Graficos%20Comparativos/1Trimestre.JPG?raw=true)
 
-![](https://github.com/ufrpe-bcc-ia-2019-1/projeto-2va-aprendizagem-de-maquina-iatira10/tree/master/Graficos%20Comparativos/2Trimestre.JPG)
+![](https://github.com/ufrpe-bcc-ia-2019-1/projeto-2va-aprendizagem-de-maquina-iatira10/blob/master/Graficos%20Comparativos/2Trimestre.JPG?raw=true)
 
-![](https://github.com/ufrpe-bcc-ia-2019-1/projeto-2va-aprendizagem-de-maquina-iatira10/tree/master/Graficos%20Comparativos/3Trimestre.JPG)
+![](https://github.com/ufrpe-bcc-ia-2019-1/projeto-2va-aprendizagem-de-maquina-iatira10/blob/master/Graficos%20Comparativos/3Trimestre.JPG?raw=true)
 
-![](https://github.com/ufrpe-bcc-ia-2019-1/projeto-2va-aprendizagem-de-maquina-iatira10/tree/master/Graficos%20Comparativos/4Trimestre.JPG)
+![](https://github.com/ufrpe-bcc-ia-2019-1/projeto-2va-aprendizagem-de-maquina-iatira10/blob/master/Graficos%20Comparativos/4Trimestre.JPG?raw=true)
