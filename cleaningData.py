@@ -51,3 +51,15 @@ def contagemDaBSD(arquivo):
     df = pd.read_csv(arquivo, sep=',')
     print(df.groupby('Classification').size())
     print(df.set_index(["Classification"]).count(level="Classification"))
+
+with open(arquivo, 'r') as csvFile:
+        data_list = list(csv.reader(csvFile))
+        tratado = []
+        for separandoPorVirgula in data_list:
+            string = ''
+                string = string + ' ' + i
+    csvFile.close()
+    file1 = open(arquivo,"w")
+    for l in tratado:
+        file1.writelines("\'"+l[1]+"\',\'"+l[0]+"\'\n")
+    file1.close()
