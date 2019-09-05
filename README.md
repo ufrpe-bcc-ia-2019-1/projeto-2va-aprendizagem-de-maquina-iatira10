@@ -32,7 +32,7 @@ O objetivo é que por meio de mineração de emoções seja treinado um agente c
 | Brazil        | 07/10/2018     | 01/08/2017 |16/08/2018 |
 
 
-* [**Planilha no excel com gráficos e resultados finais**](https://docs.google.com/spreadsheets/d/1q7Pd-fLkJxmtw2rHG_3Z_cK_kV9Ow9TuJkCDVz9U2VY/edit?usp=sharing)
+* [**Planilha no excel com gráficos e resultados finais**]https://github.com/ufrpe-bcc-ia-2019-1/projeto-2va-aprendizagem-de-maquina-iatira10/blob/master/Graficos%20Comparativos/1Trimestre.JPG)
 
 
 * [**Código usado para o treinamento usando a base dados em PT-BR**](https://colab.research.google.com/drive/1WDmJi4aNi7YmrCCH3w7iic2O_JmKLZPS)
